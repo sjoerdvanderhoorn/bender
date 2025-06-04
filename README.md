@@ -1,6 +1,6 @@
 # Bender Chrome Extension
 
-A Chrome extension that automates web browsing using AI. Bender allows you to queue commands in natural language and have them executed automatically across web pages.
+Bender is a Chrome extension that automates web browsing using AI **that works**, allowing you to queue commands in natural language and have them executed automatically across web pages.
 
 ## Features
 
@@ -40,6 +40,11 @@ Navigate to https://example.com and extract the main heading and description
 ### News Aggregation from multiple sources in a single command
 ```
 Go to https://news.ycombinator.com, https://www.theverge.com, and https://www.wired.com, and for every site get the top 5 story titles and URLs in a unified JSON format
+```
+
+Or, even take action with the data and store it somewhere (this can be _anywhere_)...!
+```
+Go to https://news.ycombinator.com, https://www.theverge.com, and https://www.wired.com, and for every site get the top 5 story titles and URLs and paste those onto https://paste.gd/ so I can share it.
 ```
 
 ### Multi-step Automation

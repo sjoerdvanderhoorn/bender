@@ -2,15 +2,11 @@
   "manifest_version": 3,
   "name": "Bender browser automation",
   "version": "1.0",
-  "description": "A browser extension for automating web tasks and scraping using OpenAI's ChatGPT.",
-  "permissions": [
+  "description": "A browser extension for automating web tasks and scraping using OpenAI's ChatGPT.",  "permissions": [
     "sidePanel",
     "tabs",
     "storage",
-    "activeTab",
-    "scripting",
-    "webNavigation",
-    "history"
+    "activeTab"
   ],
   "host_permissions": [
     "<all_urls>"
