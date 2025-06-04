@@ -34,9 +34,7 @@ Bender is a Chrome extension that automates web browsing using AI **that works**
 
 Given a single instruction, Bender changes commands together to fetch the news from multiple tech sites and upload it to paste.gd.
 
-<video src="resources/demo-1.mp4" controls style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px; margin-bottom: 1em;">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/7dc9c499-4687-4340-9c1e-13f5c82595aa
 
 ## Usage Examples
 
