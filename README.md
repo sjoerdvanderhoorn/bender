@@ -2,6 +2,10 @@
 
 Bender is a Chrome extension that automates web browsing using AI **that works**, allowing you to queue commands in natural language and have them executed automatically across web pages.
 
+## Install from Chrome Web Store
+
+* https://chromewebstore.google.com/detail/bender-browser-automation/jndhbdhnlclieioakaonhcdcmghmdbjk
+
 ## Features
 
 ### ✅ Command Queue System
